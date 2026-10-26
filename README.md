@@ -144,10 +144,10 @@ const tahmid = {
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Omniscientcoder1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omniscientcoder1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" />
+<img width="49%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/generated/overview.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/generated/languages.svg" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Omniscientcoder1&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<sub>Stats above include private-repo contributions, generated daily via GitHub Actions.</sub>
 
 </div>
 

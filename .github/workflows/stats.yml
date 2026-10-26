@@ -1,0 +1,21 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate stats images (including private contributions)
+        uses: jstrieb/github-stats@master
+        with:
+          username: Omniscientcoder1
+          access_token: ${{ secrets.ACCESS_TOKEN }}
+          include_all_commits: true
+          line_height: 30
