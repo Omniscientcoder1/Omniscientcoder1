@@ -1,33 +1,57 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:12121a,100:0a0a0f&height=3&section=header" width="100%"/>
+
 # Tahmidur Rahman
 
 <a href="https://portfoliowebsite1-omega.vercel.app" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=%24+whoami;Software+Engineer+%40+Bangladesh+Finance+PLC;Full-Stack+%2B+InfoSec+focused;Building+secure%2C+high-performance+web+apps." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=%24+whoami;Software+Engineer+%40+Bangladesh+Finance+PLC;Full-Stack+%2B+InfoSec+focused;Building+secure%2C+high-performance+web+apps." alt="Typing SVG" />
 </a>
 
-[![Portfolio](https://img.shields.io/badge/→_View_Full_Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0D1117)](https://portfoliowebsite1-omega.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid-rahman9098)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahmid8017@gmail.com)
+<a href="https://portfoliowebsite1-omega.vercel.app"><img src="https://img.shields.io/badge/→_VIEW_FULL_PORTFOLIO-00FF88?style=for-the-badge&logoColor=black&labelColor=0a0a0f&color=00FF88" /></a>
+<a href="https://linkedin.com/in/tahmid-rahman9098"><img src="https://img.shields.io/badge/LINKEDIN-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0a0a0f&labelColor=0a0a0f&color=00D4FF" /></a>
+<a href="mailto:tahmid8017@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=0a0a0f&labelColor=0a0a0f&color=FF00FF" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:12121a,100:0a0a0f&height=3&section=header" width="100%"/>
 
 </div>
+<br/>
 
 ```js
-// ~/about-me.js
+// ~/about-me.js  ·  01 — profile
 const tahmid = {
   role: "Software Developer (Officer Grade-1) @ Bangladesh Finance PLC",
   focus: ["Full-Stack Development", "InfoSec", "Secure API Design"],
   stack: "JavaScript → React / Next.js → Node.js",
   mission: "Ship secure, high-performance apps that don't fall over",
-  status: "✓ 0 vulnerabilities · Signal stable"
+  status: "✓ 0 vulnerabilities · signal stable",
 };
 ```
 
 <div align="center">
 
-|  🚀 Sites Shipped  |  ⚡ eKYC Speedup  |  📂 Doc Access Speedup  |
-|:---:|:---:|:---:|
-|  **4**  |  **60% faster**  |  **70% faster**  |
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🟢 SITES SHIPPED**<br/>
+<img src="https://img.shields.io/badge/4-00FF88?style=for-the-badge&labelColor=0a0a0f&color=00FF88&logoColor=0a0a0f" alt="4" height="40"/>
+
+</td>
+<td align="center" width="33%">
+
+**🔵 eKYC SPEEDUP**<br/>
+<img src="https://img.shields.io/badge/60%25_faster-00D4FF?style=for-the-badge&labelColor=0a0a0f&color=00D4FF" alt="60% faster" height="40"/>
+
+</td>
+<td align="center" width="33%">
+
+**🟣 DOC ACCESS SPEEDUP**<br/>
+<img src="https://img.shields.io/badge/70%25_faster-FF00FF?style=for-the-badge&labelColor=0a0a0f&color=FF00FF" alt="70% faster" height="40"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -35,52 +59,73 @@ const tahmid = {
 
 ## `$ cat tech-stack.json`
 
-**Frontend**
+<div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**// frontend**
 
-**Backend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css&theme=dark" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**// backend**
 
-**DevOps**
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb&theme=dark" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**// devops**
 
-**Security**
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions,github&theme=dark" />
 
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![eKYC](https://img.shields.io/badge/eKYC-00599C?style=flat-square)
+**// security & other**
+
+<img src="https://skillicons.dev/icons?i=py,php,cpp,c,django,figma&theme=dark" />
+
+</div>
+
+<img src="https://img.shields.io/badge/JWT-0a0a0f?style=flat-square&logo=jsonwebtokens&logoColor=00D4FF&labelColor=0a0a0f"/> <img src="https://img.shields.io/badge/OAuth-0a0a0f?style=flat-square&logo=auth0&logoColor=00D4FF&labelColor=0a0a0f"/> <img src="https://img.shields.io/badge/OWASP-0a0a0f?style=flat-square&logo=owasp&logoColor=00D4FF&labelColor=0a0a0f"/> <img src="https://img.shields.io/badge/eKYC-0a0a0f?style=flat-square&logoColor=00D4FF&labelColor=0a0a0f&color=00D4FF"/> <img src="https://img.shields.io/badge/REST_APIs-0a0a0f?style=flat-square&logo=fastapi&logoColor=00D4FF&labelColor=0a0a0f"/>
 
 ---
 
-## `// featured_projects`
+## `// 02 — featured_projects`
 
-| | Project | Stack | Status |
-|---|---|---|---|
-| ★ | **[Get Set Abroad](https://portfoliowebsite1-omega.vercel.app)** — full-stack site for an education consultancy firm | Next.js · React · Node.js | `Shipped` |
-| ★ | **Bangladesh Finance — Main Website** — flagship corporate site for a licensed non-bank financial institution | Next.js · React · Node.js · MongoDB | `Live` |
-| ★ | **BD Finance Islamic Wing** — Shariah-compliant financial products portal | Next.js · React · Node.js · MongoDB | `Live` |
-| ★ | **BD Finance Securities** — online trading & brokerage platform | Next.js · React · Node.js · MongoDB | `Live` |
+<table>
+<tr><th>★</th><th>Project</th><th>Stack</th><th>Status</th></tr>
+<tr>
+<td>★</td>
+<td><b><a href="https://portfoliowebsite1-omega.vercel.app">Get Set Abroad</a></b><br/><sub>Full-stack site for an education consultancy firm</sub></td>
+<td><code>Next.js</code> <code>React</code> <code>Node.js</code></td>
+<td><img src="https://img.shields.io/badge/Shipped-00FF88?style=flat-square&labelColor=0a0a0f&color=00FF88"/></td>
+</tr>
+<tr>
+<td>★</td>
+<td><b>Bangladesh Finance — Main Website</b><br/><sub>Flagship corporate site for a licensed non-bank financial institution</sub></td>
+<td><code>Next.js</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
+<td><img src="https://img.shields.io/badge/Live-00D4FF?style=flat-square&labelColor=0a0a0f&color=00D4FF"/></td>
+</tr>
+<tr>
+<td>★</td>
+<td><b>BD Finance Islamic Wing</b><br/><sub>Shariah-compliant financial products portal, custom Figma UI</sub></td>
+<td><code>Next.js</code> <code>Django</code> <code>Node.js</code> <code>MongoDB</code></td>
+<td><img src="https://img.shields.io/badge/Live-00D4FF?style=flat-square&labelColor=0a0a0f&color=00D4FF"/></td>
+</tr>
+<tr>
+<td>★</td>
+<td><b>BD Finance Securities</b><br/><sub>Online trading & brokerage platform</sub></td>
+<td><code>Next.js</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></td>
+<td><img src="https://img.shields.io/badge/Live-00D4FF?style=flat-square&labelColor=0a0a0f&color=00D4FF"/></td>
+</tr>
+<tr>
+<td>★</td>
+<td><b>CSEDUAA Website</b><br/><sub>Auth, admin dashboard & event notifications for the UITS CSE Alumni Association</sub></td>
+<td><code>React</code> <code>Django</code> <code>PostgreSQL</code></td>
+<td><img src="https://img.shields.io/badge/Shipped-00FF88?style=flat-square&labelColor=0a0a0f&color=00FF88"/></td>
+</tr>
+</table>
 
 > Also shipped: a mobile **eKYC verification app** (−60% manual verification time) and a **QR-based document archiving system** (−70% access time).
 
-**[→ See full case studies on the portfolio](https://portfoliowebsite1-omega.vercel.app)**
+<a href="https://portfoliowebsite1-omega.vercel.app"><img src="https://img.shields.io/badge/→_SEE_FULL_CASE_STUDIES-FF00FF?style=for-the-badge&labelColor=0a0a0f&color=FF00FF"/></a>
 
 ---
 
-## `# experience.log`
+## `# 03 — experience.log`
 
 ```
 [Sep 2024 → Present]   Software Developer (Officer Grade-1) · Bangladesh Finance PLC
@@ -154,13 +199,13 @@ const tahmid = {
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:12121a,100:0a0a0f&height=3&section=header" width="100%"/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omniscientcoder1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmid-rahman9098)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black)](https://portfoliowebsite1-omega.vercel.app)
+<a href="https://github.com/Omniscientcoder1"><img src="https://img.shields.io/badge/GITHUB-00FF88?style=for-the-badge&logo=github&logoColor=0a0a0f&labelColor=0a0a0f&color=00FF88"/></a>
+<a href="https://linkedin.com/in/tahmid-rahman9098"><img src="https://img.shields.io/badge/LINKEDIN-00D4FF?style=for-the-badge&logo=linkedin&logoColor=0a0a0f&labelColor=0a0a0f&color=00D4FF"/></a>
+<a href="https://portfoliowebsite1-omega.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logoColor=0a0a0f&labelColor=0a0a0f&color=FF00FF"/></a>
 
 `✓ build passing · ✓ 0 vulnerabilities · signal stable`
 
