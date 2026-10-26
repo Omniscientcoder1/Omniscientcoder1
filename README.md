@@ -144,8 +144,11 @@ const tahmid = {
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img width="49%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/generated/overview.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/generated/languages.svg" />
+<img width="48%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+<img width="48%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+
+<img width="48%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img width="48%" src="https://raw.githubusercontent.com/Omniscientcoder1/Omniscientcoder1/main/profile-summary-card-output/github_dark/3-stats.svg" />
 
 <sub>Stats above include private-repo contributions, generated daily via GitHub Actions.</sub>
 

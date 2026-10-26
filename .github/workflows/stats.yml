@@ -1,21 +1,23 @@
-name: Generate GitHub Stats Images
+name: Generate GitHub Profile Summary Cards
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate stats images (including private contributions)
-        uses: jstrieb/github-stats@master
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          username: Omniscientcoder1
-          access_token: ${{ secrets.ACCESS_TOKEN }}
-          include_all_commits: true
-          line_height: 30
+          USERNAME: Omniscientcoder1
+          BRANCH_NAME: "main"
+          THEME: "github_dark"
