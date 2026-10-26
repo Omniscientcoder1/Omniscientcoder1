@@ -84,13 +84,53 @@ const tahmid = {
 
 ```
 [Sep 2024 → Present]   Software Developer (Officer Grade-1) · Bangladesh Finance PLC
-                       ├─ Built & deployed 4 production corporate websites in 6 months
-                       └─ Cut manual verification time by 60% via an eKYC app
+                       ├─ Designed, developed & maintained 4 full-scale web platforms
+                       │  (Main, Islamic, Securities & Capital) using Next.js, React.js,
+                       │  Node.js & MongoDB — improving client engagement & brand presence
+                       ├─ Spearheaded the Bangladesh Finance Mobile eKYC App, cutting
+                       │  manual verification time by 60% and improving onboarding
+                       ├─ Integrated secure RESTful APIs to financial-grade security standards
+                       ├─ Built a QR code–based File Archiving System, automating document
+                       │  retrieval and cutting file access time by 70%
+                       └─ Collaborated with UI/UX teams on responsive, secure digital platforms
+                          ✓ Promoted from Intern → Officer Grade-1 within 3 months
 
 [Jun 2024 → Aug 2024]  Software Developer Intern · Bangladesh Finance PLC
-                       ├─ Improved frontend load times by up to 25% (component optimization)
-                       └─ Contributed to live fintech systems
+                       ├─ Built & maintained internal company software with React.js,
+                       │  PHP & MySQL across multiple live production systems
+                       ├─ Optimized frontend components, improving load times up to 25%
+                       ├─ Maintained internal systems following MVC architecture &
+                       │  secure REST API integration
+                       ├─ Paired with senior devs to debug & test mission-critical
+                       │  features, improving reliability and cutting error rates
+                       └─ Built fundamentals in web security, DB optimization, API
+                          integration & Agile delivery in a fast-paced fintech environment
 ```
+
+**Highlights:** Built & deployed 4 production-grade corporate websites for a leading financial institution within 6 months · Selected as top-performing intern and promoted within 3 months.
+
+---
+
+## `$ cat education.yml`
+
+```yaml
+- institution: Bangladesh University of Professionals (BUP)
+  degree: M.Sc in Information Systems Security (MISS), Professional
+  period: Jan 2025 → Present
+  gpa: 3.5 / 4.0
+  coursework: [Penetration Testing, Digital Forensics, Secure Software Design]
+
+- institution: University of Information Technology and Sciences (UITS)
+  degree: B.Sc in Computer Science and Engineering
+  period: Jan 2020 → Jun 2024
+  gpa: 3.2 / 4.0
+  coursework:
+    [Data Structures & Algorithms, Database Management Systems,
+     Operating Systems, Computer Networks, Web Application Development,
+     Object-Oriented Programming, Artificial Intelligence]
+```
+
+**Certifications:** Programming for Everybody (Python) · Python Data Structures — Coursera · Flutter SDK & Framework — Udemy *(in progress)*
 
 ---
 
